@@ -10,6 +10,8 @@ Concepts and algorithms : Unique use of graph algorithm and DFS algorithm, OOPS 
 
 ![01](https://github.com/nikhilkumarv500/Small-Case-Investment/assets/135054796/4288b76e-ac47-4034-a693-ad464e74d9d6) 
 
+##
+
 Here if the user enters the correct username and password then he will be allowed for the next steps.
 
 3) MAIN MENU
