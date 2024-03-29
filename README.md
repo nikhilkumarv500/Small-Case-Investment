@@ -6,8 +6,8 @@ Concepts and algorithms : Unique use of graph algorithm and DFS algorithm, OOPS 
 
 ## Screen Shots
 
-1) LOGIN
-![01](https://github.com/nikhilkumarv500/Small-Case-Investment/assets/135054796/4288b76e-ac47-4034-a693-ad464e74d9d6)
+1) LOGIN"\n"
+![01](https://github.com/nikhilkumarv500/Small-Case-Investment/assets/135054796/4288b76e-ac47-4034-a693-ad464e74d9d6) "\n"
 Here if the user enters the correct username and password then he will be allowed for the next steps.
 
 2) MAIN MENU
